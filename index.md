@@ -10,8 +10,8 @@ A brief, punchy statement about your skills and goals.
 * Evaluated change requests to ensure organizational compliance
 * Assisted in Secure Cloud Business Applications (SCuBA) project
 * Collaborated with IT Operations to harden operating systems and applications, specifically with CIS Benchmarks/NIST 800-53 Rev 5.
-* Wrote documentation on security  processes and procedures.
-* Worked assigned Service Now tickets to troubleshoot reported issues.
+* Wrote documentation on security processes and procedures.
+* Worked assigned ServiceNow tickets to troubleshoot reported issues.
 * Utilized Azure DevOps boards to manage project timelines, and work assigned tasks
 
 **Cybersecurity Engineer II** | Edgewater Federal Solutions *(Jan 2024 - Oct 2026)*
@@ -36,14 +36,16 @@ A brief, punchy statement about your skills and goals.
 * Disposed of sensitive storage media as per NIST 800-88 guidelines
 
 ## EDUCATION
-**Stevenson University** | Bachelor of Science in Computer Information Systems *(Aug 2014—May 2018)*
+**Stevenson University** | Bachelor of Science in Computer Information Systems *(Aug 2014 - May 2018)*
 
 ## CERTIFICATIONS
+
 ### Microsoft
 * Microsoft Security Operations Analyst Associate (SC-200) *(Sep 2026)*
 * PL-900: Microsoft Power Platform Fundamentals *(Jul 2023)*
 * SC-900: Microsoft Security, Compliance, and Identity Fundamentals *(May 2023)*
 * AZ-900: Microsoft Azure Fundamentals *(Dec 2022)*
+
 ### CompTIA
 * CompTIA Security+ SY0-701 *(Nov 2024)*
 * CompTIA Network+ N10-008 *(Oct 2023)* 
