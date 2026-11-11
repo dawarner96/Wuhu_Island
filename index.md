@@ -36,15 +36,15 @@ A brief, punchy statement about your skills and goals.
 * Disposed of sensitive storage media as per NIST 800-88 guidelines
 
 ## EDUCATION
-**Stevenson University** | Bachelors of Science, Computer Information Systems (Digital Forensics) *(Aug 2014—May 2018)*
+**Stevenson University** | Bachelor of Science in Computer Information Systems *(Aug 2014—May 2018)*
 
 ## CERTIFICATIONS
 ### Microsoft
-* Microsoft Security Operations Analyst Associate (SC-200) - September 2026 (Valid until September 2027)
-* PL-900: Microsoft Power Platform Fundamentals - July 2023
-* SC-900: Microsoft Security, Compliance, and Identity Fundamentals - May 2023
-* AZ-900: Microsoft Azure Fundamentals - December 2022
+* Microsoft Security Operations Analyst Associate (SC-200) *(Sep 2026)*
+* PL-900: Microsoft Power Platform Fundamentals *(Jul 2023)*
+* SC-900: Microsoft Security, Compliance, and Identity Fundamentals *(May 2023)*
+* AZ-900: Microsoft Azure Fundamentals *(Dec 2022)*
 ### CompTIA
-* CompTIA Security+ (SY0-701) - November 2024 (Valid until November 2027)
-* CompTIA Network+ (N10-008) - October 2023 (Valid until November 2027)
-* CompTIA A+ (220-1001/2) - November 2021 (Valid until November 2027)
+* CompTIA Security+ SY0-701 *(Nov 2024)*
+* CompTIA Network+ N10-008 *(Oct 2023)* 
+* CompTIA A+ 220-1001/2 *(Nov 2021)*
