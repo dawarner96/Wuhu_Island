@@ -35,7 +35,8 @@ A brief, punchy statement about your skills and goals.
 * Disposed of sensitive storage media as per NIST 800-88 guidelines
 
 ## EDUCATION
-**Stevenson University** | Bachelor of Science in Computer Information Systems *(Aug 2014 - May 2018)*
+**Stevenson University** *(Aug 2014 - May 2018)*
+* Bachelor of Science in Computer Information Systems 
 
 ## CERTIFICATIONS
 
