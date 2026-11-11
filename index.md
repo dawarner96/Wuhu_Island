@@ -1,6 +1,6 @@
 <style>
   .inner {
-    max-width: 820px !important;
+    max-width: 850px !important;
     margin: 0 auto !important;
   }
   #main_content {
