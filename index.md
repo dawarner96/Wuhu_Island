@@ -1,7 +1,5 @@
-📍 Frederick, MD   ✉️ david.warner.@edgewaterit.com   🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
-
-## Professional Summary
-A brief, punchy statement about your skills and goals.
+## David Warner Jr
+📍 Frederick, MD | ✉️ david.warner.@edgewaterit.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Work Experience
 **Systems Engineer Intermediate** | Federal Energy Regulatory Commission  *(Oct 2026 - Present)*
