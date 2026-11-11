@@ -23,6 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### Header 3
 
 ```KQL
+// Sample KQL Query
 SigninLogs
 | where TimeGenerated > ago(24h)
 | take 100
