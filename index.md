@@ -91,14 +91,11 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Toby
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="/home/david/Documents/Github/Page/Photos/IMG_6902.heic alt="Description of my image">
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+![Toby](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Definition lists can be used with HTML syntax.
 
