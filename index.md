@@ -49,8 +49,9 @@
 * CompTIA Network+ N10-008 *(Oct 2023)* 
 * CompTIA A+ 220-1001/2 *(Nov 2021)*
 
+
 <style>
   .main-content {
-    max-width: 85% !important;
+    max-width: 50% !important;
   }
 </style>
