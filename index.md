@@ -1,4 +1,4 @@
-📍 Frederick, MD | ✉️ david.warner.@edgewaterit.com  | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
+📍 Frederick, MD   ✉️ david.warner.@edgewaterit.com   🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Professional Summary
 A brief, punchy statement about your skills and goals.
