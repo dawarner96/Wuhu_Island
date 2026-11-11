@@ -1,4 +1,3 @@
-# David Warner Jr
 📍 Frederick, MD | ✉️ david.warner.@edgewaterit.com  | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Professional Summary
