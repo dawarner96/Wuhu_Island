@@ -1,4 +1,15 @@
-## David Warner Jr
+<style>
+  .inner {
+    max-width: 850px !important;
+    margin: 0 auto !important;
+  }
+  #main_content {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+  }
+</style>
+
+# David Warner Jr
 📍 Frederick, MD | ✉️ david.a.warner.jr@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
 ## Work Experience
