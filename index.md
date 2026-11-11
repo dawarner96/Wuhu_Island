@@ -1,10 +1,9 @@
 <style>
-  .main-content {
-    max-width: 750px !important;
-    padding-left: 4rem !important;
-    padding-right: 4rem !important;
+  .inner {
+    max-width: 85% !important;
   }
 </style>
+
 
 ## David Warner Jr
 📍 Frederick, MD | ✉️ david.a.warner.jr@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
