@@ -1,3 +1,11 @@
+<style>
+  .main-content {
+    max-width: 750px !important;
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+  }
+</style>
+
 ## David Warner Jr
 📍 Frederick, MD | ✉️ david.a.warner.jr@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/david-warner-jr-096)
 
@@ -48,10 +56,3 @@
 * CompTIA Security+ SY0-701 *(Nov 2024)*
 * CompTIA Network+ N10-008 *(Oct 2023)* 
 * CompTIA A+ 220-1001/2 *(Nov 2021)*
-
-
-<style>
-  .main-content {
-    max-width: 50% !important;
-  }
-</style>
