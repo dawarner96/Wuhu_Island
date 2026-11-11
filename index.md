@@ -1,7 +1,11 @@
 <style>
   .inner {
-    max-width: 80% !important;
+    max-width: 950px !important;
     margin: 0 auto !important;
+  }
+  #main_content {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
   }
 </style>
 
