@@ -4,7 +4,7 @@
 ## Professional Summary
 A brief, punchy statement about your skills and goals.
 
-## Experience
+## Work Experience
 **Systems Engineer Intermediate** | Federal Energy Regulatory Commission  *(Oct 2026 - Present)*
 * Performed software product reviews to assess security impacts
 * Evaluated change requests to ensure organizational compliance
@@ -38,7 +38,7 @@ A brief, punchy statement about your skills and goals.
 ## EDUCATION
 **Stevenson University** | Bachelors of Science, Computer Information Systems (Digital Forensics) *(Aug 2014—May 2018)*
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 * Microsoft Security Operations Analyst Associate (SC-200) | September 2026 | Valid until September 2027
 * CompTIA Security+ (SY0-701) | CompTIA | November 2024 | Valid until November 2027
 * CompTIA Network+ (N10-008) | CompTIA | October 2023 | Valid until November 2027
