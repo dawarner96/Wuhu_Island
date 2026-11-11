@@ -40,11 +40,11 @@ A brief, punchy statement about your skills and goals.
 
 ## CERTIFICATIONS
 ### Microsoft
-* Microsoft Security Operations Analyst Associate (SC-200) | September 2026 (Valid until September 2027)
-* PL-900: Microsoft Power Platform Fundamentals | July 2023
-* SC-900: Microsoft Security, Compliance, and Identity Fundamentals | May 2023
-* AZ-900: Microsoft Azure Fundamentals | December 2022
+* Microsoft Security Operations Analyst Associate (SC-200) - September 2026 (Valid until September 2027)
+* PL-900: Microsoft Power Platform Fundamentals - July 2023
+* SC-900: Microsoft Security, Compliance, and Identity Fundamentals - May 2023
+* AZ-900: Microsoft Azure Fundamentals - December 2022
 ### CompTIA
-* CompTIA Security+ (SY0-701) | November 2024 (Valid until November 2027)
-* CompTIA Network+ (N10-008) | October 2023 (Valid until November 2027)
-* CompTIA A+ (220-1001/2) | November 2021 (Valid until November 2027)
+* CompTIA Security+ (SY0-701) - November 2024 (Valid until November 2027)
+* CompTIA Network+ (N10-008) - October 2023 (Valid until November 2027)
+* CompTIA A+ (220-1001/2) - November 2021 (Valid until November 2027)
