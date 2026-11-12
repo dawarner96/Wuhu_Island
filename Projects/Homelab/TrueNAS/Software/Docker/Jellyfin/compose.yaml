@@ -10,6 +10,8 @@ services:
     volumes:
       - /mnt/Main/Apps/dockge/jellyfin:/config
       - /mnt/Main/storage/videos/media/movies:/movies
+      - /mnt/Main/storage/videos/media/anime:/anime
+      - /mnt/Main/storage/videos/media/tv:/tv
     ports:
       - 8096:8096
       - 8920:8920 #optional
