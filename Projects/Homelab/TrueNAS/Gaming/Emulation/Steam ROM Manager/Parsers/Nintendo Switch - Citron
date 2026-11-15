@@ -10,7 +10,7 @@
 # ROMs directory
 ····/home/david/truenas_SMB/games/Emulators/Nintendo Switch/Games/
 # Steam collections
-····
+····Nintendo Switch
 # Search glob
 ····${title}@(.nca|.NCA|.nro|.NRO|.nso|.NSO|.nsp|.NSP|.xci|.XCI)
 # Search glob-regex
