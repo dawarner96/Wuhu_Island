@@ -10,7 +10,7 @@
 # ROMs directory
 ····/home/david/truenas_SMB/games/Emulators/GBA/Games
 # Steam collections
-····Game Boy Advance
+····Nintendo Game Boy Advance
 # Search glob
 ····${title}@(.7z|.7Z|.gba|.GBA|.zip|.ZIP)
 # Search glob-regex
