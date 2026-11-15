@@ -1,0 +1,197 @@
+```
+# Parser type
+····Selected: Glob
+# Parser title
+····PlayStation - DuckStation
+# Steam directory
+····${steamdirglobal}
+# User accounts
+····Global
+# ROMs directory
+····/home/david/truenas_SMB/games/Emulators/PS1/Games
+# Steam collections
+····Playstation
+# Search glob
+····**/${title}@(.chd|.CHD|.cue|.CUE|.ecm|.ECM|.img|.IMG|.iso|.ISO|.m3u|.M3U|.pbp|.PBP)
+# Search glob-regex
+····null
+# Manifests Directory
+····null
+# Amazon Games Path Override
+····null
+····[ ]: Launch games via Amazon Games
+# Epic Manifests Directory Override
+····null
+····[ ]: Launch games via Epic for online services
+····[ ]: Wait for the game to exit before ending the shortcut
+# Legendary Path Override
+····null
+# Legendary installed.json Path Override
+····null
+····[ ]: Launch games via Legendary for online services
+# Galaxy Path Override
+····null
+····[ ]: Launch games via GOG Galaxy
+····[ ]: Parse linked executables from GOG Galaxy
+····[ ]: Parse using Registry instead of Galaxy DB
+# itch.io AppData Directory Override
+····null
+# Windows-on-Linux Install Drive Redirect
+····null
+# Game fetch strategy
+····Selected: null
+# Steam Web API key
+····null
+# Application Types
+····Selected: null
+····[ ]: Find artwork for installed titles only
+# Ubisoft Directory Override
+····null
+····[ ]: Launch games via UPlay for online services
+# XboxGames Directory Override
+····null
+····[ ]: Launch game as UWP instead of launcher helper
+# EA Games Directory Override
+····null
+····[ ]: Launch games via EA Desktop
+# Battle.net.exe Path Override
+····null
+# GitHub Launcher Install Directory
+····null
+# Quiver Launcher Directory
+····null
+# Executable
+····/home/david/Applications/DuckStation-x64.AppImage
+····[ ]: Follow .lnk or .desktop to destination (Windows and Linux only)
+····[x]: Append arguments to executable
+# Command line arguments
+····-batch -fullscreen "${filePath}"
+# Executable modifier
+····"${exePath}"
+# "Start In" directory
+····/home/david/truenas_SMB/games/Emulators/PS1/Games
+# Title modifier
+····${fuzzyTitle}
+# Title from custom variable
+····Selected: 
+····[ ]: Case-insensitive variables
+····[ ]: Skip file if variable was not found
+# Sort-title from custom variable
+····Selected: 
+# Fuzzy matching
+····[x]: Replace diacritic characters
+····[x]: Aggressive matching
+····[x]: Remove (...) and [...] brackets
+# Enable Steam Input
+····Selected: 1
+# Gamecube Controller Template
+····Selected: null
+# Wii Remote Template
+····Selected: null
+# PS3 Controller Template
+····Selected: null
+# PS4 Controller Template
+····Selected: null
+# PS5 Controller Template
+····Selected: null
+# PS5 Dualsense Edge Controller Template
+····Selected: null
+# Xbox 360 Controller Template
+····Selected: null
+# Xbox One Controller Template
+····Selected: null
+# Xbox One Elite Controller Template
+····Selected: null
+# Switch Joy-Con (Left) Template
+····Selected: null
+# Switch Joy-Con (Right) Template
+····Selected: null
+# Switch Joy-Con (Pair) Template
+····Selected: null
+# Switch Pro Controller Template
+····Selected: null
+# Switch 2 Pro Controller Template
+····Selected: null
+# Steam Deck Template
+····Selected: null
+# Steam Controller (Triton 2026) Template
+····Selected: null
+# Steam Controller (Gordon 2015) Template
+····Selected: null
+# Generic Controller Template
+····Selected: null
+# 8bitdo Controller Template
+····Selected: null
+# ASUS ROG Ally Template
+····Selected: null
+# Lenovo Legion Go S Template
+····Selected: null
+# Force compatibility tool
+····Selected: 
+# Custom compatibility tool name
+····
+····[ ]: Wrap shortcut in a shell script
+# Pre-launch script
+····
+# Post-launch script
+····
+# Post-exit script
+····
+# Artwork providers
+····Selected: sgdb
+# Artwork provider search queries
+····${fuzzyTitle}
+# Artwork pool
+····${fuzzyTitle}
+····[ ]: Local backups (DRM takedown protection)
+····[ ]: Allow NSFW artwork
+····[ ]: Allow joke artwork
+# Allowed grid styles
+····Selected: 
+# Allowed hero styles
+····Selected: 
+# Allowed logo styles
+····Selected: 
+# Allowed icon styles
+····Selected: 
+# Allowed animation types
+····Selected: static
+# Allowed banner dimensions
+····Selected: 
+# Allowed hero dimensions
+····Selected: 
+# Allowed portrait dimensions
+····Selected: null
+# Allowed icon dimensions
+····Selected: 
+# Overlay portraits
+····
+# Overlay banners
+····
+# Overlay heroes
+····
+# Overlay logos
+····
+# Overlay icons
+····
+# Fallback portrait
+····
+# Fallback banner
+····
+# Fallback hero
+····
+# Fallback logo
+····
+# Fallback icon
+····
+# Local portraits glob
+····
+# Local banners glob
+····
+# Local heroes glob
+····
+# Local logos glob
+····
+# Local icons glob
+····
+```
