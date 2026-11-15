@@ -10,7 +10,7 @@
 # ROMs directory
 ····/home/david/truenas_SMB/games/Emulators/3DS/Roms/
 # Steam collections
-····3DS
+····Nintendo 3DS
 # Search glob
 ····${title}@(.3ds|.3DS|.3dsx|.3DSX|.app|.APP|.axf|.AXF|.cci|.CCI|.cxi|.CXI|.elf|.ELF)
 # Search glob-regex
