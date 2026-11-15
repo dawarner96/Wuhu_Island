@@ -10,7 +10,7 @@
 # ROMs directory
 ····/home/david/truenas_SMB/games/Emulators/N64/Games
 # Steam collections
-····N64
+····Nintendo 64
 # Search glob
 ····${title}@(.n64|.N64|.v64|.V64|.z64|.Z64)
 # Search glob-regex
